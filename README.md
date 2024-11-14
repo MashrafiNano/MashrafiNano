@@ -1,8 +1,7 @@
 - 👋 Mashrafi Nano
-- 👀 I’m interested in Mechine learning,software engineering.
+- 👀 I’m interested in Mechine learning,Software engineering.
 - 🌱 Try to deep drive into python,C/C++.
 - 📫 miwanrobin@gmail.com
-- 😄 Pronouns: he
 - ⚡ Fun fact: code is life for me..
 
 <!---
